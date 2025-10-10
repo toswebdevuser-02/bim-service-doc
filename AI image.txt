@@ -14,6 +14,10 @@ https://deepai.org/machine-learning-model/text2img
 Image Prompt Creator
 https://imageprompt.org/image-to-prompt
 
+Gemini Pro Email ID
+Id: modelingstructuralbim@gmail.com
+Password: tos_lb_np22
+
 TOS Footer Blog Code
 <ul class="list-unstyled footer-links mt-4">
     <?php 
