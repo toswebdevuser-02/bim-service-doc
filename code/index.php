@@ -412,7 +412,7 @@
             <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                     <h3 class="accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             <span>1.</span> What is GeM and why does my small business need to be on it?  </button>
                     </h3>
@@ -462,10 +462,10 @@
                 <div class="accordion-item">
                     <h3 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                             <span>5.</span> Do you help with GeM Order Acceptance?  </button>
                     </h3>
-                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p>Yes! We provide complete support to correctly process and accept orders received on the GeM portal, ensuring all post-order formalities are managed seamlessly.
                             </p>
@@ -475,10 +475,10 @@
                 <div class="accordion-item">
                     <h3 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
                             <span>6.</span> Can I get an ISO Certificate through GEM Gujarat?   </button>
                     </h3>
-                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                    <div id="collapsesix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p>Absolutely. We facilitate the entire process for obtaining an authentic and globally recognized GEM ISO Certificate to enhance your company's quality perception and credibility.
                             </p>
