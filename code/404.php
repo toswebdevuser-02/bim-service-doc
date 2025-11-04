@@ -32,7 +32,7 @@
     <!-- Favicon Icon -->
     <link rel="icon" type="image/x-icon" href="https://www.teslaoutsourcingservices.com/favicon.ico">
     <!-- For Web App Background -->
-    <meta name="theme-color" content="#de424a" />
+    <meta name="theme-color" content="#f70629" />
     <!-- Custome Style CSS -->
     <style>
     <?php include 'css/source.css';?>
